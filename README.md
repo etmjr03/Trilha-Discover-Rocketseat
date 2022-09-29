@@ -6,6 +6,7 @@ Conteúdos utilizados:
 URL
 
 - instação do Node.js: https://nodejs.org/en/
+- atributos globais HTML: https://developer.mozilla.org/pt-BR/docs/Web/HTML/Global_attributes
 
 Extensões do VSCode:
 
